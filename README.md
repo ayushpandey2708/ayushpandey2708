@@ -4,17 +4,17 @@
  
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Java+Developer;Microservices+%7C+Kafka+%7C+React;Always+Learning+Something+New)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Microservices+%7C+Kafka+%7C+React;Always+Learning+Something+New)
 
 </div>
  
 ## 🚀 About Me
  
-I'm a passionate **Java Full-Stack Developer** who loves turning complex problems into elegant, scalable solutions.  
-With strong experience in **Java, Spring Boot, Microservices, Kafka, and React**, I enjoy architecting efficient back-end services and sleek front-end interfaces.
+I'm a passionate **MERN Full-Stack Developer** who loves turning complex problems into elegant, scalable solutions.  
+With strong experience in **MERN, Spring Boot, Microservices, Kafka, and React**, I enjoy architecting efficient back-end services and sleek front-end interfaces.
 
 - 🔭 Currently working on **enterprise-grade ERP and data-sync platforms**
-- 🌱 Learning **system design, advanced Java concepts, and high-performance data pipelines**
+- 🌱 Learning **system design, advanced MERN concepts, and high-performance data pipelines**
 - 💡 Interested in **distributed systems, real-time messaging, and open source**
 - 🎯 Goal: Build products that solve real-world problems at scale
 - ⚡ Fun fact: I believe readable code is just as important as efficient code
@@ -24,8 +24,8 @@ With strong experience in **Java, Spring Boot, Microservices, Kafka, and React**
 <div align="center">
  
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MERN](https://img.shields.io/badge/MERN-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MERNScript](https://img.shields.io/badge/MERNScript-F7DF1E?style=for-the-badge&logo=MERNscript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
